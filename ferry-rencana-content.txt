@@ -2,6 +2,8 @@ Rencana Kegiatan Ferry
 -Coding
  *PHP
  *CSS
+ *CodeIgniter
+ *reactJS
 -Design
 -Writng
 -video editing
