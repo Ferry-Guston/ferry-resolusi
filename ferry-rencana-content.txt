@@ -4,3 +4,4 @@ Rencana Kegiatan Ferry
  *CSS
 -Design
 -Writng
+-video editing
