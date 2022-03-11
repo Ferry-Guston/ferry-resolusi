@@ -1,0 +1,6 @@
+Rencana Kegiatan Ferry
+-Coding
+ *PHP
+ *CSS
+-Design
+-Writng
